@@ -1,8 +1,6 @@
 pandas
 numpy
 streamlit
-re
-warnings
 pickle
 matplotlib
 seaborn
