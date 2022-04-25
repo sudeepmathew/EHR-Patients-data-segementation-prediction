@@ -6,8 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import re
-from nltk.corpus import stopwords
-stop_words = set(stopwords.words("english"))
+from nltk_stop import stop_words
 warnings.filterwarnings('ignore')
 
 P_COLS = ['SUBJECT_ID', 'GENDER', 'DOB', 'DOD', 'DOD_HOSP', 'EXPIRE_FLAG',
