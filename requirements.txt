@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+re
+warnings
+pickle
+matplotlib
+seaborn
+nltk
+nltk.corpus
