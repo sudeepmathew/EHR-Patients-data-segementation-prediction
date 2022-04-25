@@ -4,4 +4,3 @@ streamlit
 matplotlib
 seaborn
 nltk
-nltk.corpus
